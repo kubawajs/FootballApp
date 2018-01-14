@@ -52,7 +52,7 @@
 
         <!-- Link panel -->
 
-        <div class="container col s12 m12 l9" ng-controller="linkController">
+        <div class="container col s12 m12 l9" ng-controller="postedLinksController">
 
           <!-- Card Template -->
           
@@ -74,7 +74,7 @@
               <div class="card-content col s10 m9 blue-grey-text text-darken-1">
                 
                 <span class="card-title">
-                <a ng-href="{{ link.link }}" class="light-green-text text-darken-3"><h5>{{ link.title }}</h5></a>
+                <a ng-href="{{ link.url }}" class="light-green-text text-darken-3"><h5>{{ link.title }}</h5></a>
                 </span>
                 <p>{{ link.description }}</p>
 
@@ -108,7 +108,7 @@
                 <li class="collection-header"><h5 class="blue-grey-text text-darken-4">Latest popular</h5></li>
                 
                 <li class="collection-item" ng-repeat="link in linksList">
-                  <a ng-href="{{ link.link }}" class="light-green-text text-darken-3"><p class="latest-popular-header">{{ link.title }}</p>
+                  <a ng-href="{{ link.url }}" class="light-green-text text-darken-3"><p class="latest-popular-header">{{ link.title }}</p>
                   <div class="row">
                     <div class="col s3">
                       <p class="left orange-text rate-small">{{ link.votes }}</p>
