@@ -4,6 +4,7 @@ using Microsoft.Extensions.DependencyInjection;
 using FootballApp.Api.Models;
 using Microsoft.EntityFrameworkCore;
 using Newtonsoft.Json;
+using FootballApp.Api.Database;
 
 namespace FootballApp.Api
 {

@@ -20,3 +20,14 @@ C:\Users\kubaw\Desktop\Web Apps\FootballApp\FootballApp.Api\obj\Debug\netcoreapp
 C:\Users\kubaw\Desktop\Web Apps\FootballApp\FootballApp.Api\obj\Debug\netcoreapp2.0\FootballApp.Api.AssemblyInfo.cs
 C:\Users\kubaw\Desktop\Web Apps\FootballApp\FootballApp.Api\obj\Debug\netcoreapp2.0\FootballApp.Api.dll
 C:\Users\kubaw\Desktop\Web Apps\FootballApp\FootballApp.Api\obj\Debug\netcoreapp2.0\FootballApp.Api.pdb
+C:\Users\Mariusz\Desktop\Kuba\FootballApp\FootballApp.Api\bin\Debug\netcoreapp2.0\FootballApp.Api.deps.json
+C:\Users\Mariusz\Desktop\Kuba\FootballApp\FootballApp.Api\bin\Debug\netcoreapp2.0\FootballApp.Api.runtimeconfig.json
+C:\Users\Mariusz\Desktop\Kuba\FootballApp\FootballApp.Api\bin\Debug\netcoreapp2.0\FootballApp.Api.runtimeconfig.dev.json
+C:\Users\Mariusz\Desktop\Kuba\FootballApp\FootballApp.Api\bin\Debug\netcoreapp2.0\FootballApp.Api.dll
+C:\Users\Mariusz\Desktop\Kuba\FootballApp\FootballApp.Api\bin\Debug\netcoreapp2.0\FootballApp.Api.pdb
+C:\Users\Mariusz\Desktop\Kuba\FootballApp\FootballApp.Api\obj\Debug\netcoreapp2.0\FootballApp.Api.csprojResolveAssemblyReference.cache
+C:\Users\Mariusz\Desktop\Kuba\FootballApp\FootballApp.Api\obj\Debug\netcoreapp2.0\FootballApp.Api.csproj.CoreCompileInputs.cache
+C:\Users\Mariusz\Desktop\Kuba\FootballApp\FootballApp.Api\obj\Debug\netcoreapp2.0\FootballApp.Api.AssemblyInfoInputs.cache
+C:\Users\Mariusz\Desktop\Kuba\FootballApp\FootballApp.Api\obj\Debug\netcoreapp2.0\FootballApp.Api.AssemblyInfo.cs
+C:\Users\Mariusz\Desktop\Kuba\FootballApp\FootballApp.Api\obj\Debug\netcoreapp2.0\FootballApp.Api.dll
+C:\Users\Mariusz\Desktop\Kuba\FootballApp\FootballApp.Api\obj\Debug\netcoreapp2.0\FootballApp.Api.pdb

@@ -1,6 +1,8 @@
 ﻿using System.Linq;
 using Microsoft.AspNetCore.Mvc;
 using FootballApp.Api.Models;
+using FootballApp.Api.Database;
+using System;
 
 // For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 
@@ -14,19 +16,6 @@ namespace FootballApp.Api.Controllers
         public PostedLinksController(FootballAppContext context)
         {
             _context = context;
-
-            if(_context.PostedLinks.Count() == 0)
-            {
-                _context.PostedLinks.Add(new PostedLink
-                {
-                    Id = 1,
-                    Title = "Valverde nowym trenerem Barcelony!",
-                    Url = "http://footroll.pl/valverde-nowym-trenerem-barcelony/",
-                    Description = "Ernesto Valverde zastąpił Luisa Enrique na stanowisku trenera FC Barcelony.",
-                    Votes = 120
-                });
-                _context.SaveChanges();
-            }
         }
 
         [HttpGet]
@@ -36,7 +25,7 @@ namespace FootballApp.Api.Controllers
         }
 
         [HttpGet("{id}", Name = "GetPostedLink")]
-        public IActionResult GetById(long id)
+        public IActionResult GetById(Guid id)
         {
             var item = _context.PostedLinks.FirstOrDefault(t => t.Id == id);
             if (item == null)

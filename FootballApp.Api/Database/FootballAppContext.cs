@@ -1,6 +1,7 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using FootballApp.Api.Models;
+using Microsoft.EntityFrameworkCore;
 
-namespace FootballApp.Api.Models
+namespace FootballApp.Api.Database
 {
     public class FootballAppContext : DbContext
     {
