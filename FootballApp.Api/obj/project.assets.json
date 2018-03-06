@@ -12535,7 +12535,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Mariusz\\.nuget\\packages\\": {},
+    "C:\\Users\\kubaw\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
@@ -12544,17 +12544,17 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mariusz\\Desktop\\Kuba\\FootballApp\\FootballApp.Api\\FootballApp.Api.csproj",
+      "projectUniqueName": "C:\\Users\\kubaw\\Desktop\\Web Apps\\FootballApp\\FootballApp.Api\\FootballApp.Api.csproj",
       "projectName": "FootballApp.Api",
-      "projectPath": "C:\\Users\\Mariusz\\Desktop\\Kuba\\FootballApp\\FootballApp.Api\\FootballApp.Api.csproj",
-      "packagesPath": "C:\\Users\\Mariusz\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mariusz\\Desktop\\Kuba\\FootballApp\\FootballApp.Api\\obj\\",
+      "projectPath": "C:\\Users\\kubaw\\Desktop\\Web Apps\\FootballApp\\FootballApp.Api\\FootballApp.Api.csproj",
+      "packagesPath": "C:\\Users\\kubaw\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\kubaw\\Desktop\\Web Apps\\FootballApp\\FootballApp.Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Mariusz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\kubaw\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
